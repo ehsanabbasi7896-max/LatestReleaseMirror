@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="thisisdara--mhr-cfw-go"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### ThisIsDara--mhr-cfw-go
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.1.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ehsanabbasi7896-max/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ehsanabbasi7896-max/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
 <!-- RELEASES_END -->
